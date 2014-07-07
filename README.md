@@ -1,4 +1,0 @@
-hunspell-id
-===========
-
-hunspell-id
